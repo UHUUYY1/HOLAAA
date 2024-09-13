@@ -1,0 +1,28 @@
+{
+  "balloonMusic": {
+    "path": "meienn/5.mp3",
+    "description": "Happy Birthday music"
+  },
+  "greeting": "Heyy",
+  "name": "Prami",
+  "greetingText": "I've got something special for you! 🎉",
+  "wishText": "Hope today and every day brings you happiness! 😊",
+  "imagePath": "meienn/4.jpg",
+  "text1": "Happy Birthday! Today is all about celebrating you, and I’m so glad we’re still friends after two years. It’s awesome to seen you back!",
+  "textInChatBox": "I’m really thankful you’re back after two years apart because of your situation.",
+  "sendButtonLabel": "Send",
+  "text2": "I want to talk about so many things with you,",
+  "text3": "But the most important thing is that I hope you’re always happy and healthy.",
+  "text4": "As a little things of my care, I made this for you.",
+  "text4Adjective": "Prami",
+  "text5Entry": "And most importantly,",
+  "text5Content":"You’re awesome, cute, and dont forget that you’re special in the eyes of all your friends.",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Don’t forget to smile and enjoy your special day!",
+  "replayText": "Send to Story dong wkwkw!",
+  "outroSmiley": ":)"
+
+}
